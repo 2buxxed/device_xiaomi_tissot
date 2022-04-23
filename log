@@ -1,0 +1,6 @@
+Using section "LA.QSSI.12.0.r1-05800-qssi.0"
+Extracting 1 files in ./../../xiaomi/msm8953-common/proprietary-files.txt from /home/herobuxx/lc/proprietary:
+Checking if system is odexed and locating boot.oats...
+-system_ext/framework/qti-telephony-common.jar|fee3a1ee6888cd849ad7b7294e7c50c26ef80ac1
+Using section "LA.QSSI.12.0.r1-05800-qssi.0"
+Extracting 0 files in ./../../xiaomi/msm8953-common/../tissot/proprietary-files.txt from /home/herobuxx/lc/proprietary:
